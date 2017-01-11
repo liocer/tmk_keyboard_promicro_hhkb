@@ -1,0 +1,13 @@
+diff --git a/keyboard/hhkb/config.h b/keyboard/hhkb/config.h
+index c0acc0a..6eeffbe 100644
+--- a/keyboard/hhkb/config.h
++++ b/keyboard/hhkb/config.h
+@@ -41,7 +41,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
+ 
+ 
+ /* period of tapping(ms) */
+-#define TAPPING_TERM    300
++#define TAPPING_TERM    200
+ /* tap count needed for toggling a feature */
+ #define TAPPING_TOGGLE  5
+ /* Oneshot timeout(ms) */
